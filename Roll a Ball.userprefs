@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Scavenger\Assets\Scripts\BoardManager.cs">
+    <Files>
+      <File FileName="..\Scavenger\Assets\Scripts\GameManager.cs" Line="5" Column="1" />
+      <File FileName="..\Scavenger\Assets\Scripts\BoardManager.cs" Line="79" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
